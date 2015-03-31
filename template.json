@@ -3,7 +3,7 @@
         "name": "virtualbox",
         "type": "virtualbox-iso",
         "iso_url": "boot2docker.iso",
-        "iso_checksum": "d018f0beb973d6dbdf37c16b0f2468bb",
+        "iso_checksum": "3d8b8fe5e89637eab45be550799c1a8a",
         "iso_checksum_type": "md5",
         "boot_wait": "5s",
         "ssh_username": "docker",

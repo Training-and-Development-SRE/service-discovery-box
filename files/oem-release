@@ -1,6 +1,6 @@
 ID=boot2docker
 NAME="Boot2Docker.box for Vagrant"
-VERSION_ID=1.4.1
-HOME_URL="https://vagrantcloud.com/yungsang/boot2docker"
-SUPPORT_URL="https://github.com/YungSang/boot2docker-vagrant-box"
-BUG_REPORT_URL="https://github.com/YungSang/boot2docker-vagrant-box/issues"
+VERSION_ID=1.5.0
+HOME_URL="https://atlas.hashicorp.com/yatskevich/boxes/service-discovery"
+SUPPORT_URL="https://github.com/yatskevich/service-discovery-box"
+BUG_REPORT_URL="https://github.com/yatskevich/service-discovery-box/issues"
