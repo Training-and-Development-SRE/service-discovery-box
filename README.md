@@ -2,9 +2,9 @@
 
 This repository contains the scripts necessary to create a Vagrant-compatible
 [boot2docker](https://github.com/boot2docker/boot2docker) box with several Docker images pre-installed:
-- busybox
+- gliderlabs/alpine
 - progrium/consul
-- progrium/registrator
+- gliderlabs/registrator
 - golang
 
 ## Usage
